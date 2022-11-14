@@ -1,0 +1,8 @@
+netsuite:
+    apiURL: https://1234567-sb2.suitetalk.api.netsuite.com/services/rest/record/v1
+    account: 1234567_SB2
+    token: 0000111122223333444455556666777788889999aaaabbbbccccddddeeeeffff
+    tokenSecret: 0000111122223333444455556666777788889999aaaabbbbccccddddeeeeffff
+    consumerKey: 0000111122223333444455556666777788889999aaaabbbbccccddddeeeeffff
+    consumerSecret: 0000111122223333444455556666777788889999aaaabbbbccccddddeeeeffff
+
